@@ -13,6 +13,12 @@
 
 - **C++**
 
+- **Golang**
+
+- **php**
+
+- **Java Script**
+
 ---
 
 ## Activities
@@ -26,8 +32,6 @@
 # Contact With Me
 
  [Discord](http://discord.com/user/414046587086438401)  [Telegram](https://t.me/joexfr) [Guns](https://github.com/0xmrjoex)
-
-- **[Guns](https://github.com/0xmrjoex)**
 
 ---
 
