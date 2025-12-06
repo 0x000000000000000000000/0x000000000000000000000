@@ -25,14 +25,12 @@
 
 # Contact With Me
 
-- **About Me: https://github.com/0xmrjoex**
+ [Discord](http://discord.com/user/414046587086438401)  [Telegram](https://t.me/joexfr) [Guns](https://github.com/0xmrjoex)
+
+- **[Guns](https://github.com/0xmrjoex)**
 
 ---
 
-## Availability
-- Open for programming requests
-- Contact me via [Discord][(https://guns.lol/0xmrjoex](http://discord.com/user/414046587086438401)) 
-) or [Telegram](https://t.me/joexfr)
 ![Snake animation](0xmrjoex.svg)
 ---
 <p align="left">
