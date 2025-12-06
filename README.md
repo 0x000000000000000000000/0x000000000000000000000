@@ -31,7 +31,7 @@
 
 ## Availability
 - Open for programming requests
-- Contact me via Discord (0x00000000000000000000000000
+- Contact me via [Discor](https://guns.lol/0xmrjoex) 
 ) or Telegram (Oxmrjoex)
 ![Snake animation](0xmrjoex.svg)
 ---
