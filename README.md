@@ -1,4 +1,4 @@
-# Cybersecurity Engineer - Bug Bounty Hunter - Malware Developer
+# CyberSecurity Engineer - Bug Bounty Hunter - Malware Developer
 
 ---
 
